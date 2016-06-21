@@ -1,2 +1,4 @@
 # training-submod
-practicing submodules 
+practicing submodules
+
+git is fun 
