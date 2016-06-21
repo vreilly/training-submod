@@ -1,0 +1,3 @@
+[submodule "divyaalla-submodule"]
+	path = divyaalla-submodule
+	url = https://github.com/divyaalla/divyaalla-submodule.git
